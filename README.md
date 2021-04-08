@@ -1,2 +1,2 @@
 # Fivem-wepon-damage-editor-five-m
-Fivem Wepon damage script by miksa
+Fivem Wepon damage script by Miksa
